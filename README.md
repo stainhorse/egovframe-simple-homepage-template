@@ -2,4 +2,7 @@
 Simple Homepage Template
 
 ## check list 
-- Add license info
+- Make a dockerfile
+
+## How to run with container
+...
